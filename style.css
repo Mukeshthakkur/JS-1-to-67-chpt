@@ -1,0 +1,28 @@
+
+
+.img{
+  
+    width: 150px;
+    height: 100px;
+}
+
+.bigsize{
+width: 470px;
+height: 400px;
+}
+
+.add{
+    font-size: 10px;
+}
+
+.remove{
+    font-size: 10px;
+}
+
+#counter{
+    text-align: center;
+}
+
+.zoomin{
+    font-size: 10px;
+}
